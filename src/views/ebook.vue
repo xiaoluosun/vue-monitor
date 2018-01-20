@@ -44,7 +44,7 @@
 <template>
     <div class="layout">
         <div class="layout-content">
-            <div class="layout-content-main">Content</div>
+            <div class="layout-content-main">this is 电子书</div>
         </div>
     </div>
 </template>

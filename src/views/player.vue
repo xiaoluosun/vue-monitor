@@ -44,7 +44,7 @@
 <template>
     <div class="layout">
         <div class="layout-content">
-            <div class="layout-content-main">Content</div>
+            <div class="layout-content-main">this is 播放器</div>
         </div>
     </div>
 </template>
